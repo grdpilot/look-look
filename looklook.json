@@ -101,14 +101,6 @@
       "searchable": 1,
       "quickSearch": 1
     }
-    {
-      "key": "影视工厂",
-      "name": "😈影视┃工厂",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    }
   ],
   "logo": "https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
   "lives": [
