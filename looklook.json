@@ -2,15 +2,7 @@
   "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fty.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
-    {
-      "key": "聚合资源",
-      "name": "🎀聚合┃影视",
-      "type": 1,
-      "api": "https://vod.korge.cn/kapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
+     {
       "key":"csp_json_影视狗",
       "name":"资源|影视狗",
       "type":1,
@@ -19,6 +11,14 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1
+    },
+    {
+      "key": "聚合资源",
+      "name": "🎀聚合┃影视",
+      "type": 1,
+      "api": "https://vod.korge.cn/kapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "虎牙",
