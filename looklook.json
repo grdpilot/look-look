@@ -11,6 +11,16 @@
       "quickSearch": 1
     },
     {
+      "key":"csp_json_影视狗",
+      "name":"资源|影视狗",
+      "type":1,
+      "api":"https://www.yingshi.dog/api.php/provide/vod/",
+      "playUrl":"",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
       "key": "虎牙",
       "name": "🎀虎牙┃影视",
       "type": 1,
