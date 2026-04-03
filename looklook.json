@@ -146,21 +146,14 @@
   ],
   "logo": "https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
   "lives": [
-    {
-      "name": "V4-mursor（卡顿请换源）",
+   {
+      "name": "mytv",
       "type": 0,
-      "url": "https://sub.ottiptv.cc/iptv.m3u",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
       "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://11.112114.xyz/logo/{name}.png",
       "ua": "okHttp/Mod-1.3.0.0"
-    },
-    {
-      "name": "V6-范明明（需开启V6网络）",
-      "type": 0,
-      "url": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u",
-      "playerType": 2,
-      "logo": "https://11.112114.xyz/logo/{name}.png"
     },
     {
       "name": "牛播一",
