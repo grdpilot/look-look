@@ -1,0 +1,34 @@
+{
+  "wallpaper_ms": "https://5376.kstore.space/Bz_msw.json",
+  "wallpaper": "https://moe.jitsu.top/img",
+  "logo": "https://gitee.com/liu_wuyou/box/raw/master/Bz/logo.jpg",
+  "sites": [
+    {
+      "key": "布布影视",
+      "name": "\uD83C\uDF3C布布|影视\uD83C\uDF3C",
+      "type": 4,
+      "api": "https://api.uumnet.com/tvbox/php/bubu.php",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "星辰影院",
+      "name": "\uD83C\uDF3C星辰|影院\uD83C\uDF3C",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/星辰影院.js",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "裤佬端木",
+      "name": "\uD83C\uDF3C裤佬|端木\uD83C\uDF3C",
+      "type": 3,
+      "api": "https://raw.giteeusercontent.com/luhongwei123/config/raw/master/端木.py",
+      "changeable": 1
+    }
+  ]
+}
