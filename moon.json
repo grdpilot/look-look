@@ -2,6 +2,14 @@
   "sites": [
     {
       "key": "api_45",
+      "name": "🎀六九┃线路",
+      "type": 1,
+      "api": "https://a.69mj.com/index.php/vod",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "api_45",
       "name": "🎀非凡┃线路",
       "type": 1,
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
