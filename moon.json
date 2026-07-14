@@ -1,13 +1,13 @@
 {
   "sites": [
     {
-  "key": "meijufan",
-  "name": "🎬美剧┃美剧范",
-  "type": 1,
-  "api": "http://ttzmz.net/api.php/v1.vod",
-  "searchable": 1,
-  "quickSearch": 1
-},
+      "key": "meijufan",
+      "name": "🎬美剧┃美剧范",
+      "type": 1,
+      "api": "http://ttzmz.net/api.php/v1.vod",
+      "searchable": 1,
+      "quickSearch": 1
+    },
     {
       "key": "api_45",
       "name": "🎀非凡┃线路",
