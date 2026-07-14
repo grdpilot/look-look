@@ -7,7 +7,6 @@
       "api": "https://www.69mj.com/api.php/v1.vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
     },
     {
       "key": "api_45",
