@@ -1,6 +1,16 @@
 {
   "sites": [
     {
+      "key": "csp_appysv2_69美剧",
+      "name": "69美剧(萝卜)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.69mj.com/api.php/v1.vod"
+    },
+    {
       "key": "api_45",
       "name": "🎀非凡┃线路",
       "type": 1,
