@@ -1,10 +1,11 @@
 {
   "sites": [
     {
-      "key": "meijufan",
-      "name": "🎬美剧┃美剧范",
+      "key": "海外电影",
+      "name": "🎬海外┃电影(聚)",
       "type": 1,
-      "api": "http://ttzmz.net/api.php/v1.vod",
+      "api": "https://www.200121.com/api.php/provide/vod/",
+      "playUrl": "parse:parwix1",
       "searchable": 1,
       "quickSearch": 1
     },
