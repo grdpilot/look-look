@@ -1,6 +1,14 @@
 {
   "sites": [
     {
+  "key": "海外电影",
+  "name": "🎬海外┃电影(聚)",
+  "type": 1,
+  "api": "https://www.200121.com/api.php/provide/vod/",
+  "searchable": 1,
+  "quickSearch": 1
+},
+    {
       "key": "api_45",
       "name": "🎀非凡┃线路",
       "type": 1,
