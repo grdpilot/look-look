@@ -4,7 +4,7 @@
       "key": "csp_appysv2_69美剧",
       "name": "🎀六九┃线路",
       "type": 1,
-      "api": "https://a.69mj.com/index.php/vod",
+      "api": "https://a.69mj.com/api.php/vod",
       "searchable": 1,
       "quickSearch": 1
     },
