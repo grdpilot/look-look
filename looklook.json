@@ -4,7 +4,7 @@
   "sites": [
      {
       "key":"EcoHub",
-      "name":"🎀资源┃影视",
+      "name":"🎀Eco┃影视",
       "type":1,
       "api":"https://eco.fe-spark.cn/api/provide/vod",
       "playUrl":"",
