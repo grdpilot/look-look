@@ -1,0 +1,25 @@
+{
+  "sites": [
+    {
+      "key": "api_24",
+      "name": "🎀最大1┃线路",
+      "type": 1,
+      "api": "http://zuidazy.me/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "海外剧",
+        "日韩综艺",
+        "欧美综艺",
+        "日韩动漫",
+        "Netflix自制剧",
+        "Netflix电影"
+      ]
+    }
+  ]
+}
