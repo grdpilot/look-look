@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "api_24",
-      "name": "🎀最大1┃线路",
+      "name": "Test┃VOD",
       "type": 1,
       "api": "http://zuidazy.me/api.php/provide/vod",
       "searchable": 1,
